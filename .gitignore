@@ -1,0 +1,9 @@
+.env
+*.env
+bot/.env
+
+/node_modules
+bot/node_modules
+
+*.log
+npm-debug.log*
